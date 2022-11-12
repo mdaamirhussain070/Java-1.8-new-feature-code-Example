@@ -1,0 +1,13 @@
+
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ªÎéÜ8­¯÷ÕÆ0
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(à¹Á½8­¯÷ÕÆ0
+V
+java:S3516
+"9Refactor this method to not always return the same value.(äæ‡‹8¯¯÷ÕÆ0
+P	java:S125"<This block of commented-out lines of code should be removed.(ñÃ³C
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÈÑ×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à©Üïøÿÿÿÿ
+[
+java:S1128"@Remove this unused import 'functionalinterface.StudentDataBase'.(èéÉ¼ýÿÿÿÿ

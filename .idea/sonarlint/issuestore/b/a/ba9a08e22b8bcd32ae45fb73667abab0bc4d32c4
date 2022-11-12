@@ -1,0 +1,12 @@
+
+[
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(Êµ´‡úÿÿÿÿ
+q
+java:S4276	"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(²µù®
+H
+java:S1611	"2Remove the parentheses around the "name" parameter(²µù®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õØÔè
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŸØÑÁþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î«ý†úÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ

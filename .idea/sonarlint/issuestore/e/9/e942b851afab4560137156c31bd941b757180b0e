@@ -1,0 +1,21 @@
+
+o
+java:S1488#"ZImmediately return this expression instead of assigning it to the temporary variable "sn".(ÃÿÍT
+E
+java:S1611"/Remove the parentheses around the "s" parameter(°‡ï¦
+V
+java:S1126"AReplace this if-then-else statement by a single return statement.(¿«œK
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹×Û«ýÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(ÀÝ®Þþÿÿÿÿ
+h
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+\
+java:S1612&"FReplace this lambda with method reference 'StreamExample1::gpaDouble'.( Ÿ—
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(’‡‘§þÿÿÿÿ
+Q	java:S1255"<This block of commented-out lines of code should be removed.(Å•“²
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+N
+java:S1128	"8Remove this unused import 'java.util.function.Function'.(»³Íž

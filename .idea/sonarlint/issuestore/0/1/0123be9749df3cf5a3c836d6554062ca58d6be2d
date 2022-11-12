@@ -1,0 +1,21 @@
+
+z
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "studentSorted".(œÛˆ9
+z
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "studentSorted".(œÛˆ9
+0
+java:S1220""Move this file to a named package.
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â¥
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â¥
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â¥
+N	java:S106""9Replace this use of System.out or System.err by a logger.(½Ù…¤
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ï¥‘‰
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ù¶Š–ùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªµ‘÷úÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(™‹ëûÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(áÎû»
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

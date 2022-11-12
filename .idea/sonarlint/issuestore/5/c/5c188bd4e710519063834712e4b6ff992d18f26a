@@ -1,0 +1,21 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(¨»Èa
+D
+java:S3740"/Provide the parametrized type for this generic.(¨»Èa
+0
+java:S1220""Move this file to a named package.
+R
+java:S1854"=Remove this useless assignment to local variable "arrayList".(¨»Èa
+C
+java:S1481".Remove this unused "arrayList" local variable.(¨»Èa
+J
+java:S1611"/Remove the parentheses around the "s" parameter(ÝïßÁúÿÿÿÿ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ýžªÐ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìõõÒþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Äë«¸
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹

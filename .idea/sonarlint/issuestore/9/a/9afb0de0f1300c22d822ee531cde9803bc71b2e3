@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ä¸ñ
+V	java:S125"<This block of commented-out lines of code should be removed.(½˜ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ý¾þô
+Q	java:S125'"<This block of commented-out lines of code should be removed.(µä×
+X
+java:S1854,"BRemove this useless assignment to local variable "integersEmplty".(Šè·Ï
+I
+java:S1481,"3Remove this unused "integersEmplty" local variable.(Šè·Ï
+V	java:S125-"<This block of commented-out lines of code should be removed.(¼íß‰ùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¿ºï¡þÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(œ¼ñ ûÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ä÷”ûÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ð›Àþùÿÿÿÿ
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(Ê¡¤í8ÀŽÎ°Æ0

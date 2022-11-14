@@ -97,21 +97,3 @@ W
 'src/optional/OptionalOrElseExample.java,6\a\6a91c2631df6e7711a9f800a49f94ea1342c3dce
 G
 src/optional/Bicke.java,3\c\3cd8b211643db8f19aede16aa8794d8e764e9b50
-X
-(src/optional/OptionalPresentExample.java,0\d\0d296f506680a272065a71407d67a47b407824c0
-T
-$src/functionalinterface/Student.java,d\1\d14ba90d73e06b86a1b45804ee49c8e980907d86
-[
-+src/optional/OptionalMapFlatMapExample.java,d\6\d651c17a4f4b802b0904b93f54473c965827b18e
-W
-'src/defaults/DefaultMethodsExample.java,d\5\d57d8ab786d18b2df3e764f24376a5353ed2bc12
-X
-(src/defaults/DefaultMethodsExample2.java,9\a\9ab7935f20eea90ea4116f6771b00dd20d852422
-P
- src/date/NewDateTimeExample.java,c\0\c01e9a1f045e3178a7457e0c5d4ca5fde53d56f4
-N
-src/date/LocalDateExample.java,d\8\d86474d15260f0e7dfa1cdcdcb3a44b1e1383744
-\
-,src/functionalinterface/StudentDataBase.java,e\b\ebb95981efc08a7cd95387886d3f53246842ca1b
-N
-src/date/LocalTimeExample.java,1\5\15858f4d48139695021b0672e927ea317ebb526e
